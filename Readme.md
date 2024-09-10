@@ -1,1 +1,3 @@
-This repository is meant to help you that want to become a software developer, this contain all leetcode questions and solutions with explanation and test cases to help you to pratice and get better at software development
+This repository is designed to support aspiring software developers by providing comprehensive solutions to all LeetCode questions, complete with detailed explanations and test cases. It serves as a valuable resource for practicing coding skills and improving software development expertise.
+
+The repository includes solutions in various programming languages such as C, C++, C#, Java, Python, JavaScript, and more. Additionally, it leverages Codeium to offer problem explanations, step-by-step breakdowns, and function overviews, helping you write cleaner, more efficient code.
