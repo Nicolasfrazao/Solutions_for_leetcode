@@ -1,0 +1,1 @@
+This repository is meant to help you that want to become a software developer, this contain all leetcode questions and solutions with explanation and test cases to help you to pratice and get better at software development
